@@ -102,7 +102,12 @@ To ensure the security of the app, the following measures have been implemented:
 ## Deployed App
 The app is deployed and can be accessed via the following link:
 
-Deployed iTunes Search App
+[Deployed iTunes Search App](https://itunes-search-rho.vercel.app/)
+
+## Screenshot
+
+<img width="1378" alt="Apple iTunes Screenshot" src="https://github.com/user-attachments/assets/3417863e-2e71-4138-8451-b9ff9a3bbef2">
+
 
 
 
