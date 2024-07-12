@@ -149,7 +149,7 @@ function Search() {
               className="search-header"
               style={{ fontSize: '70px', fontWeight: 'bold' }}
             >
-              <b>iTunes Search</b>
+              <b> Apple iTunes Search</b>
             </h1>
           </div>
           <div className="search-content">
